@@ -1,0 +1,23 @@
+﻿  try.cpp
+D:\C\try\try\try.cpp(9,13): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(13,13): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(15,9): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(15,17): error C2065: “endl”: 未声明的标识符
+D:\C\try\try\try.cpp(22,13): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(26,13): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(28,9): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(28,17): error C2065: “endl”: 未声明的标识符
+D:\C\try\try\try.cpp(37,13): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(43,17): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(46,17): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(49,9): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(49,17): error C2065: “endl”: 未声明的标识符
+D:\C\try\try\try.cpp(56,13): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(62,17): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(65,17): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(68,9): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(68,17): error C2065: “endl”: 未声明的标识符
+D:\C\try\try\try.cpp(74,5): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(75,5): error C2065: “cin”: 未声明的标识符
+D:\C\try\try\try.cpp(77,5): error C2065: “cout”: 未声明的标识符
+D:\C\try\try\try.cpp(80,5): error C2065: “cout”: 未声明的标识符
